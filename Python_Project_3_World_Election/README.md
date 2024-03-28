@@ -1,12 +1,12 @@
 # Python_Project_3_World_Election
 # INTRODUCTION
 
-World Election data was analysed in order to practise ***Python Data Analysis libraries*** and find out _the regime, the elections and leaders from the globe_
+<br />World Election data was analysed in order to practise ***Python Data Analysis libraries*** and find out _the regime, the elections and leaders from the globe_
 
 # ANALYSIS
 
-To analyze and visualise data, _Python Data Analysis libraries_ were used (***NumPy, Pandas, matplotlib & seaborn***)
-All steps with detailed information is also described in [Python_Project_3_Election.ipynb](https://github.com/Longwinter93/Python_Data_Analysis_Libraries_Projects/blob/main/Python_Project_3_World_Election/Python_Project_3_Election.ipynb)
+<br />To analyze and visualise data, _Python Data Analysis libraries_ were used (***NumPy, Pandas, matplotlib & seaborn***)
+<br />All steps with detailed information is also described in [Python_Project_3_Election.ipynb](https://github.com/Longwinter93/Python_Data_Analysis_Libraries_Projects/blob/main/Python_Project_3_World_Election/Python_Project_3_Election.ipynb)
 
 # MAIN CONCLUSIONS
 1. Oman has the greatest year of Monarchy Regime Type (281 years).
