@@ -1,12 +1,12 @@
 # Python_Project_2_Mexico_Toy_Sales
 # INTRODUCTION
 
-Mexico Toy Sales was analysed in order to practise ***Python Data Analysis libraries*** and _find out about general Sales, Profit and other details regarding this shop_
+<br />Mexico Toy Sales was analysed in order to practise ***Python Data Analysis libraries*** and _find out about general Sales, Profit and other details regarding this shop_
 
 # ANALYSIS
 
-To analyze and visualise data, _Python Data Analysis libraries_ were used (***NumPy, Pandas, matplotlib & seaborn***)
-All steps with detailed information is also described in [Python Project 2 Mexico Toy Sales.ipynb](https://github.com/Longwinter93/Python_Data_Analysis_Libraries_Projects/blob/main/Python_Project_2_Mexico_Toy_Sales/Python%20Project%202%20Mexico%20Toy%20Sales.ipynb)
+<br />To analyze and visualise data, _Python Data Analysis libraries_ were used (***NumPy, Pandas, matplotlib & seaborn***)
+<br />All steps with detailed information is also described in [Python Project 2 Mexico Toy Sales.ipynb](https://github.com/Longwinter93/Python_Data_Analysis_Libraries_Projects/blob/main/Python_Project_2_Mexico_Toy_Sales/Python%20Project%202%20Mexico%20Toy%20Sales.ipynb)
 
 # MAIN CONCLUSIONS
 

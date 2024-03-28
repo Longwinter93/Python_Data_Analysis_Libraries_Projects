@@ -1,13 +1,13 @@
 # Python_Project_4_World_University_Ranking
 # INTRODUCTION
 
-World University Ranking was analysed in order to practise ***Python Data Analysis libraries*** and _find out about the classification of the university in the world_. 
+<br />World University Ranking was analysed in order to practise ***Python Data Analysis libraries*** and _find out about the classification of the university in the world_. 
 <br>World University Ranking and Shanghai Ranking were used to analyze. Then, these rankings were compared between selected countries.
 
 # ANALYSIS
 
-To analyze and visualise data, _Python Data Analysis libraries_ were used (***NumPy, Pandas, matplotlib & seaborn***)
-All steps with detailed information is also described in [Python_Project_4_World_University_Ranking.ipynb](https://github.com/Longwinter93/Python_Data_Analysis_Libraries_Projects/blob/main/Python_Project_4_World_University_Ranking/Python_Project_4_World_University_Ranking.ipynb)
+<br />To analyze and visualise data, _Python Data Analysis libraries_ were used (***NumPy, Pandas, matplotlib & seaborn***)
+<br />All steps with detailed information is also described in [Python_Project_4_World_University_Ranking.ipynb](https://github.com/Longwinter93/Python_Data_Analysis_Libraries_Projects/blob/main/Python_Project_4_World_University_Ranking/Python_Project_4_World_University_Ranking.ipynb)
 
 
 # MAIN CONCLUSIONS
