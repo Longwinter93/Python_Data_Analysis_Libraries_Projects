@@ -1,0 +1,630 @@
+ccode,Country,Government Start,Government End,Regime Type,Years of The Government
+2,USA,1789-03-04,2020-12-31,Presidential,235.0
+20,Canada,1931-12-11,2020-12-31,Parliamentary,92.0
+31,Bahamas,1973-06-30,2020-12-31,Parliamentary,51.0
+40,Cuba,1940-10-10,1952-03-10,Presidential,84.0
+40,Cuba,1952-03-10,1959-01-01,Personal,72.0
+40,Cuba,1959-01-01,2020-12-31,Party-personal,65.0
+41,Haiti,1946-08-16,1950-05-10,Presidential,78.0
+41,Haiti,1950-05-10,1956-12-12,Personal,74.0
+41,Haiti,1956-12-12,1957-04-02,Provisional military,67.0
+41,Haiti,1957-04-02,1957-05-20,Military,67.0
+41,Haiti,1957-05-20,1957-06-14,Provisional military,67.0
+41,Haiti,1957-06-14,1986-02-07,Personal,67.0
+41,Haiti,1986-02-07,1988-02-07,Provisional military,38.0
+41,Haiti,1988-02-07,1988-09-17,Military,36.0
+41,Haiti,1988-09-17,1990-03-10,Military personal,36.0
+41,Haiti,1990-03-10,1991-02-07,Provisional,34.0
+41,Haiti,1991-02-07,1991-09-30,Presidential,33.0
+41,Haiti,1991-09-30,1994-10-12,Military,33.0
+41,Haiti,1994-10-12,1999-01-12,Presidential,29.0
+41,Haiti,1999-01-12,2004-02-29,Personal,25.0
+41,Haiti,2004-02-29,2006-05-14,Provisional,20.0
+41,Haiti,2006-05-14,2016-02-08,Presidential,18.0
+41,Haiti,2016-02-08,2017-02-07,Provisional,8.0
+41,Haiti,2017-02-07,2020-12-31,Presidential,7.0
+42,Dominican Rep,1930-08-16,1961-12-29,Personal,94.0
+42,Dominican Rep,1961-12-29,1962-01-19,Provisional,62.0
+42,Dominican Rep,1962-01-19,1963-02-27,Foreign-occupied,62.0
+42,Dominican Rep,1963-02-27,1963-09-26,Presidential,61.0
+42,Dominican Rep,1963-09-26,1965-04-24,Military,61.0
+42,Dominican Rep,1965-04-24,1966-07-01,Foreign-occupied,59.0
+42,Dominican Rep,1966-07-01,1978-05-16,Personal,58.0
+42,Dominican Rep,1978-05-16,2020-12-31,Presidential,46.0
+51,Jamaica,1962-07-06,2020-12-31,Parliamentary,62.0
+52,Trinidad and Tobago,1962-07-31,2020-12-31,Parliamentary,62.0
+53,Barbados,1966-10-30,2020-12-31,Parliamentary,57.0
+54,Dominica,1978-10-03,2020-12-31,Parliamentary,46.0
+55,Grenada,1974-01-07,1979-03-13,Parliamentary,50.0
+55,Grenada,1979-03-13,1983-10-19,Personal,45.0
+55,Grenada,1983-10-19,1983-10-25,Military,40.0
+55,Grenada,1983-10-25,1983-12-09,Foreign-occupied,40.0
+55,Grenada,1983-12-09,1984-12-04,Provisional,40.0
+55,Grenada,1984-12-04,2020-12-31,Parliamentary,39.0
+56,St Lucia,1979-01-22,2020-12-31,Parliamentary,45.0
+57,St Vincent,1979-09-27,2020-12-31,Parliamentary,45.0
+58,Antigua and Barbuda,1981-10-01,2020-12-31,Parliamentary,43.0
+60,St Kitts and Nevis,1983-08-19,2020-12-31,Parliamentary,41.0
+70,Mexico,1915-08-02,2000-07-02,Party-based,109.0
+70,Mexico,2000-07-02,2020-12-31,Presidential,24.0
+80,Belize,1981-08-01,2020-12-31,Parliamentary,43.0
+90,Guatemala,1945-03-14,1954-06-27,Presidential,79.0
+90,Guatemala,1954-06-27,1954-07-08,Military,70.0
+90,Guatemala,1954-07-08,1957-07-20,Personal,70.0
+90,Guatemala,1957-07-20,1957-10-28,Provisional military,67.0
+90,Guatemala,1957-10-28,1958-03-02,Military,66.0
+90,Guatemala,1958-03-02,1963-03-30,Personal,66.0
+90,Guatemala,1963-03-30,1966-05-10,Military,61.0
+90,Guatemala,1966-05-10,1970-03-01,Indirect military,58.0
+90,Guatemala,1970-03-01,1982-03-23,Military,54.0
+90,Guatemala,1982-03-23,1983-08-08,Military,42.0
+90,Guatemala,1983-08-08,1986-01-14,Military,41.0
+90,Guatemala,1986-01-14,1993-06-01,Indirect military,38.0
+90,Guatemala,1993-06-01,1995-11-12,Provisional,31.0
+90,Guatemala,1995-11-12,2020-12-31,Presidential,28.0
+91,Honduras,1933-02-01,1954-11-15,Party-personal,91.0
+91,Honduras,1954-11-15,1956-10-21,Personal,69.0
+91,Honduras,1956-10-21,1957-12-21,Provisional military,67.0
+91,Honduras,1957-12-21,1963-10-03,Presidential,66.0
+91,Honduras,1963-10-03,1971-03-28,Party-military,61.0
+91,Honduras,1971-03-28,1972-12-04,Presidential,53.0
+91,Honduras,1972-12-04,1975-04-22,Military,51.0
+91,Honduras,1975-04-22,1978-08-07,Military,49.0
+91,Honduras,1978-08-07,1981-11-29,Military,46.0
+91,Honduras,1981-11-29,2020-12-31,Presidential,42.0
+92,El Salvador,1948-12-14,1950-09-14,Military,75.0
+92,El Salvador,1950-09-14,1960-10-26,Party-military,74.0
+92,El Salvador,1960-10-26,1962-01-25,Military,63.0
+92,El Salvador,1962-01-25,1979-10-15,Party-military,62.0
+92,El Salvador,1979-10-15,1982-05-02,Military,44.0
+92,El Salvador,1982-05-02,1989-06-01,Indirect military,42.0
+92,El Salvador,1989-06-01,2020-12-31,Presidential,35.0
+93,Nicaragua,1937-01-01,1979-07-17,Personal,87.0
+93,Nicaragua,1979-07-17,1990-02-25,Party-based,45.0
+93,Nicaragua,1990-02-25,2020-12-21,Presidential,34.0
+93,Nicaragua,2020-12-21,2021-12-31,Party-personal,3.0
+94,Costa Rica,1949-11-08,2020-12-31,Presidential,74.0
+95,Panama,1949-11-24,1951-05-10,Personal,74.0
+95,Panama,1951-05-10,1952-10-01,Provisional military,73.0
+95,Panama,1952-10-01,1955-01-03,Party-personal-military,72.0
+95,Panama,1955-01-03,1960-10-01,Party-based,69.0
+95,Panama,1960-10-01,1968-10-11,Presidential,64.0
+95,Panama,1968-10-11,1982-03-03,Military personal,55.0
+95,Panama,1982-03-03,1989-12-20,Military personal,42.0
+95,Panama,1989-12-20,2020-12-31,Presidential,34.0
+100,Colombia,1949-11-09,1953-06-13,Party-based,74.0
+100,Colombia,1953-06-13,1958-05-10,Military personal,71.0
+100,Colombia,1958-05-10,2020-12-31,Presidential,66.0
+101,Venezuela,1948-11-24,1958-01-23,Military personal,75.0
+101,Venezuela,1958-01-23,2005-12-04,Presidential,66.0
+101,Venezuela,2005-12-04,2020-12-31,Personal,18.0
+110,Guyana,1966-04-26,1992-10-09,Party-based,58.0
+110,Guyana,1992-10-09,2020-12-31,Parliamentary,31.0
+115,Suriname,1975-10-25,1980-02-15,Party-based,48.0
+115,Suriname,1980-02-15,1988-01-25,Indirect military,44.0
+115,Suriname,1988-01-25,1990-12-24,Parliamentary,36.0
+115,Suriname,1990-12-24,1991-09-16,Provisional military,33.0
+115,Suriname,1991-09-16,2020-12-31,Parliamentary,33.0
+130,Ecuador,1948-09-01,1963-07-11,Parliamentary,76.0
+130,Ecuador,1963-07-11,1966-03-29,Military,61.0
+130,Ecuador,1966-03-29,1968-09-01,Provisional,58.0
+130,Ecuador,1968-09-01,1970-06-22,Presidential,56.0
+130,Ecuador,1970-06-22,1972-02-15,Personal,54.0
+130,Ecuador,1972-02-15,1976-01-11,Military,52.0
+130,Ecuador,1976-01-11,1979-04-29,Military,48.0
+130,Ecuador,1979-04-29,2020-12-31,Presidential,45.0
+135,Peru,1948-10-27,1956-06-17,Military personal,75.0
+135,Peru,1956-06-17,1962-07-18,Presidential,68.0
+135,Peru,1962-07-18,1963-06-09,Provisional military,62.0
+135,Peru,1963-06-09,1968-10-03,Presidential,61.0
+135,Peru,1968-10-03,1980-05-18,Military,56.0
+135,Peru,1980-05-18,1992-04-05,Presidential,44.0
+135,Peru,1992-04-05,2000-11-21,Personal,32.0
+135,Peru,2000-11-21,2001-07-28,Provisional,23.0
+135,Peru,2001-07-28,2020-12-31,Presidential,23.0
+140,Brazil,1946-01-31,1961-09-08,Presidential,78.0
+140,Brazil,1961-09-08,1963-01-23,Parliamentary,63.0
+140,Brazil,1963-01-23,1964-04-01,Presidential,61.0
+140,Brazil,1964-04-01,1985-01-15,Military,60.0
+140,Brazil,1985-01-15,2020-12-31,Presidential,39.0
+145,Bolivia,1946-07-21,1951-05-16,Oligarchy,78.0
+145,Bolivia,1951-05-16,1952-04-09,Military,73.0
+145,Bolivia,1952-04-09,1964-11-04,Party-based,72.0
+145,Bolivia,1964-11-04,1969-09-26,Personal,59.0
+145,Bolivia,1969-09-26,1971-08-21,Military,55.0
+145,Bolivia,1971-08-21,1978-07-21,Military personal,53.0
+145,Bolivia,1978-07-21,1980-07-17,Provisional,46.0
+145,Bolivia,1980-07-17,1982-10-10,Military,44.0
+145,Bolivia,1982-10-10,2017-12-03,Presidential,41.0
+145,Bolivia,2017-12-03,2019-11-10,Party-personal,6.0
+145,Bolivia,2019-11-10,2020-10-18,Provisional ,4.0
+145,Bolivia,2020-10-18,2021-12-31,Presidential,3.0
+150,Paraguay,1948-06-03,1954-05-07,Party-based,76.0
+150,Paraguay,1954-05-07,1993-05-09,Party-personal-military,70.0
+150,Paraguay,1993-05-09,2020-12-31,Presidential,31.0
+155,Chile,1933-01-01,1973-09-11,Presidential,91.0
+155,Chile,1973-09-11,1989-12-14,Military personal,51.0
+155,Chile,1989-12-14,2020-12-31,Presidential,34.0
+160,Argentina,1946-02-24,1951-09-28,Presidential,78.0
+160,Argentina,1951-09-28,1955-09-16,Personal,73.0
+160,Argentina,1955-09-16,1958-02-23,Military,69.0
+160,Argentina,1958-02-23,1966-06-28,Indirect military,66.0
+160,Argentina,1966-06-28,1973-03-11,Military,58.0
+160,Argentina,1973-03-11,1976-03-24,Presidential,51.0
+160,Argentina,1976-03-24,1983-10-30,Military,48.0
+160,Argentina,1983-10-30,2020-12-31,Presidential,40.0
+165,Uruguay,1943-03-01,1952-01-25,Presidential,81.0
+165,Uruguay,1952-01-25,1967-02-15,Presidential,72.0
+165,Uruguay,1967-02-15,1973-06-27,Presidential,57.0
+165,Uruguay,1973-06-27,1984-11-25,Military,51.0
+165,Uruguay,1984-11-25,2020-12-31,Presidential,39.0
+200,UKG,1912-01-01,2020-12-31,Parliamentary,112.0
+205,Ireland,1922-01-01,2020-12-31,Parliamentary,102.0
+210,Netherlands,1871-01-01,2020-12-31,Parliamentary,153.0
+211,Belgium,1921-01-01,2020-12-31,Parliamentary,103.0
+212,Luxembourg,1871-01-01,2020-12-31,Parliamentary,153.0
+220,France,1946-10-14,1958-10-04,Parliamentary,78.0
+220,France,1958-10-04,2020-12-31,Presidential,66.0
+221,Monaco,1911-01-01,2020-12-31,Monarchy,113.0
+223,Liechtenstein,1921-09-01,2020-12-31,Monarchy,103.0
+225,Switzerland,1848-09-12,2020-12-31,Parliamentary,176.0
+230,Spain,1939-03-28,1975-11-01,Personal,85.0
+230,Spain,1975-11-01,1976-07-01,Provisional,48.0
+230,Spain,1976-07-01,2020-12-31,Parliamentary,48.0
+232,Andorra,1981-12-01,2020-12-31,Parliamentary,42.0
+235,Portugal,1926-05-25,1974-04-25,Personal,98.0
+235,Portugal,1974-04-25,1976-07-23,Provisional,50.0
+235,Portugal,1976-07-23,2020-12-31,Presidential,48.0
+255,Germany,1990-09-01,2020-12-31,Parliamentary,34.0
+260,Germany,1949-09-16,1990-10-01,Parliamentary,75.0
+265,Germany East,1949-10-07,1990-10-01,Party-based,75.0
+290,Poland,1944-12-31,1989-06-18,Party-based,79.0
+290,Poland,1989-06-18,2020-12-31,Presidential,35.0
+305,Austria,1945-04-10,1955-10-26,Foreign-occupied,79.0
+305,Austria,1955-10-26,2020-12-31,Parliamentary,68.0
+310,Hungary,1947-02-25,1990-03-25,Party-based,77.0
+310,Hungary,1990-03-25,2020-03-30,Parliamentary,34.0
+310,Hungary,2020-03-30,2020-12-31,Party-based,4.0
+315,Czechoslovakia,1948-02-25,1989-12-04,Party-based,76.0
+315,Czechoslovakia,1989-12-04,1992-12-31,Parliamentary,34.0
+316,Czech Rep,1992-12-01,2020-12-31,Parliamentary,31.0
+317,Slovakia,1992-12-01,2020-12-31,Parliamentary,31.0
+325,Italy,1945-12-10,2020-12-31,Parliamentary,78.0
+331,San Marino,,2020-12-31,Parliamentary,
+338,Malta,1962-02-05,2020-12-31,Parliamentary,62.0
+339,Albania,1944-11-29,1991-06-01,Party-based,79.0
+339,Albania,1991-06-01,2020-12-31,Parliamentary,33.0
+341,Montenegro,2006-05-03,2020-12-31,Parliamentary,18.0
+343,Macedonia,1991-10-17,2020-12-31,Parliamentary,32.0
+344,Croatia,1991-05-25,2000-11-09,Party-based,33.0
+344,Croatia,2000-11-09,2020-12-31,Parliamentary,23.0
+345,Yugoslavia,1945-03-07,1991-06-25,Party-based,79.0
+345,Serbia,1991-06-25,2000-10-05,Party-personal,33.0
+345,Serbia,2000-10-05,2020-12-31,Parliamentary,23.0
+346,Bosnia,1992-02-03,1995-12-14,Warlordism,32.0
+346,Bosnia,1995-12-14,2020-12-31,Foreign-occupied,28.0
+347,Kosovo,2008-01-17,2008-06-15,Foreign-occupied,16.0
+347,Kosovo,2008-06-15,2020-12-31,Parliamentary,16.0
+349,Slovenia,1991-11-23,2020-12-31,Parliamentary,32.0
+350,Greece,1947-09-08,1967-04-21,Parliamentary,77.0
+350,Greece,1967-04-21,1974-07-23,Military,57.0
+350,Greece,1974-07-23,2020-12-31,Parliamentary,50.0
+352,Cyprus,1960-07-16,2020-12-31,Foreign-occupied,64.0
+355,Bulgaria,1944-09-09,1990-08-01,Party-based,80.0
+355,Bulgaria,1990-08-01,2020-12-31,Parliamentary,34.0
+359,Moldova,1990-08-03,2020-12-31,Parliamentary,34.0
+360,Romania,1945-03-06,1989-12-22,Party-personal,79.0
+360,Romania,1989-12-22,1991-09-30,Provisional,34.0
+360,Romania,1991-09-30,2020-12-31,Parliamentary,33.0
+365,Soviet Union,1917-11-07,1991-08-21,Party-based,106.0
+365,Russia,1991-08-21,1993-09-21,Parliamentary,33.0
+365,Russia,1993-09-21,2020-12-31,Personal,31.0
+366,Estonia,1991-08-06,2020-12-31,Parliamentary,33.0
+367,Latvia,1990-04-03,2020-12-31,Parliamentary,34.0
+368,Lithuania,1990-02-11,2020-12-31,Parliamentary,34.0
+369,Ukraine,1990-06-18,2020-12-31,Presidential,34.0
+370,Belarus,1991-08-25,1994-07-10,Party-based,33.0
+370,Belarus,1994-07-21,2020-12-31,Personal,30.0
+371,Armenia,1991-09-16,2018-04-23,Personal,33.0
+371,Armenia,2018-05-08,2020-12-31,Parliamentary,6.0
+372,Georgia,1991-03-12,1992-01-06,Personal,33.0
+372,Georgia,1992-01-06,2003-11-23,Personal,32.0
+372,Georgia,2003-11-23,2004-01-25,Provisional,20.0
+372,Georgia,2004-01-25,2018-12-16,Presidential,20.0
+372,Georgia,2018-12-16,2020-12-31,Parliamentary,5.0
+373,Azerbaijan,1991-08-18,1992-05-15,Personal,33.0
+373,Azerbaijan,1992-05-15,1993-06-16,Presidential,32.0
+373,Azerbaijan,1993-06-16,2020-12-31,Personal,31.0
+375,Finland,1945-01-01,2000-03-01,Presidential,79.0
+375,Finland,2000-03-01,2020-12-31,Parliamentary,24.0
+380,Sweden,1919-01-01,2020-12-31,Parliamentary,105.0
+385,Norway,1885-01-01,2020-12-31,Parliamentary,139.0
+390,Denmark,1901-01-01,2020-12-31,Parliamentary,123.0
+395,Iceland,1945-01-01,2020-12-31,Parliamentary,79.0
+402,Cape Verde,1975-06-08,1991-04-04,Party-based,49.0
+402,Cape Verde,1991-04-04,2020-12-31,Parliamentary,33.0
+403,Sao Tome and Principe,1975-06-01,1987-10-01,Personal,49.0
+403,Sao Tome and Principe,1987-10-01,1991-03-04,Provisional,37.0
+403,Sao Tome and Principe,1991-03-04,2020-12-31,Parliamentary,33.0
+404,Guinea Bissau,1974-08-10,1980-11-14,Party-based,50.0
+404,Guinea Bissau,1980-11-14,1999-05-07,Personal,43.0
+404,Guinea Bissau,1999-05-07,2000-02-18,Provisional military,25.0
+404,Guinea Bissau,2000-02-18,2003-09-14,Presidential,24.0
+404,Guinea Bissau,2003-09-14,2005-10-01,Provisional military,21.0
+404,Guinea Bissau,2005-10-01,2009-03-02,Presidential,19.0
+404,Guinea Bissau,2009-03-02,2014-06-23,Provisional,15.0
+404,Guinea Bissau,2014-06-23,2020-12-31,Presidential,10.0
+411,Equatorial Guinea,1963-11-15,1971-05-07,Presidential,60.0
+411,Equatorial Guinea,1971-05-07,1979-08-03,Personal,53.0
+411,Equatorial Guinea,1979-08-03,2020-12-31,Personal,45.0
+420,Gambia,1965-01-18,1994-07-22,Party-based,59.0
+420,Gambia,1994-07-22,1996-08-08,Provisional military,30.0
+420,Gambia,1996-08-08,2017-01-18,Personal,28.0
+420,Gambia,2017-01-18,2020-12-31,Presidential,7.0
+432,Mali,1960-08-22,1968-11-19,Party-based,64.0
+432,Mali,1968-11-19,1991-03-26,Personal,55.0
+432,Mali,1991-03-26,1992-06-06,Provisional military,33.0
+432,Mali,1992-06-06,2012-03-22,Presidential,32.0
+432,Mali,2012-03-22,2012-04-12,Provisional military,12.0
+432,Mali,2012-04-12,2013-09-04,Provisional,12.0
+432,Mali,2013-09-04,2020-08-18,Presidential,11.0
+432,Mali,2020-08-18,2021-12-31,Provisional military,4.0
+433,Senegal,1960-07-20,2000-04-02,Party-based,64.0
+433,Senegal,2000-04-02,2020-12-31,Presidential,24.0
+434,Benin,1959-12-01,1963-10-28,Personal,64.0
+434,Benin,1963-10-28,1964-01-19,Personal,60.0
+434,Benin,1964-01-19,1965-11-29,Provisional military,60.0
+434,Benin,1965-11-29,1967-12-17,Military,58.0
+434,Benin,1967-12-17,1969-12-10,Military,56.0
+434,Benin,1969-12-10,1970-05-07,Military,54.0
+434,Benin,1970-05-07,1972-10-26,Provisional,54.0
+434,Benin,1972-10-26,1990-02-25,Personal,51.0
+434,Benin,1990-02-25,1991-04-04,Provisional,34.0
+434,Benin,1991-04-04,2020-12-31,Presidential,33.0
+435,Mauritania,1960-10-28,1978-07-10,Personal,63.0
+435,Mauritania,1978-07-10,2005-08-03,Personal,46.0
+435,Mauritania,2005-08-03,2007-03-25,Provisional military,19.0
+435,Mauritania,2007-03-25,2008-08-06,Presidential,17.0
+435,Mauritania,2008-08-06,2020-12-31,Personal,16.0
+436,Niger,1960-08-03,1974-04-15,Party-based,64.0
+436,Niger,1974-04-15,1991-07-29,Military personal,50.0
+436,Niger,1991-07-29,1993-04-16,Provisional,33.0
+436,Niger,1993-04-16,1996-01-27,Presidential,31.0
+436,Niger,1996-01-27,1999-04-11,Personal,28.0
+436,Niger,1999-04-11,1999-12-22,Provisional military,25.0
+436,Niger,1999-12-22,2010-02-08,Presidential,24.0
+436,Niger,2010-02-08,2011-04-07,Provisional military,14.0
+436,Niger,2011-04-07,2020-12-31,Presidential,13.0
+437,Ivory Coast,1960-07-07,1999-12-24,Party-based,64.0
+437,Ivory Coast,1999-12-24,2000-10-26,Personal,24.0
+437,Ivory Coast,2000-10-26,2011-04-11,Personal,23.0
+437,Ivory Coast,2011-04-11,2020-12-31,Presidential,13.0
+438,Guinea,1958-09-02,1984-04-03,Party-based,66.0
+438,Guinea,1984-04-03,2008-12-23,Personal,40.0
+438,Guinea,2008-12-23,2010-12-21,Military,15.0
+438,Guinea,2010-12-21,2020-12-31,Presidential,13.0
+439,Burkina Faso,1960-07-05,1966-01-03,Personal,64.0
+439,Burkina Faso,1966-01-03,1970-06-14,Military,58.0
+439,Burkina Faso,1970-06-14,1980-11-25,Personal,54.0
+439,Burkina Faso,1980-11-25,1982-11-07,Military,43.0
+439,Burkina Faso,1982-11-07,1987-10-15,Personal,41.0
+439,Burkina Faso,1987-10-15,2014-10-31,Personal,36.0
+439,Burkina Faso,2014-10-31,2015-12-29,Provisional,9.0
+439,Burkina Faso,2015-12-29,2020-12-31,Presidential,8.0
+450,Liberia,1944-01-01,1980-04-12,Party-personal,80.0
+450,Liberia,1980-04-12,1990-09-09,Personal,44.0
+450,Liberia,1990-09-09,1997-07-19,Warlordism,34.0
+450,Liberia,1997-07-19,2003-08-11,Personal,27.0
+450,Liberia,2003-08-11,2006-01-16,Provisional,21.0
+450,Liberia,2006-01-16,2020-12-31,Presidential,18.0
+451,Sierra Leone,1961-03-27,1967-03-23,Parliamentary,63.0
+451,Sierra Leone,1967-03-23,1968-04-18,Military,57.0
+451,Sierra Leone,1968-04-18,1992-04-29,Party-based,56.0
+451,Sierra Leone,1992-04-29,1996-03-29,Military personal,32.0
+451,Sierra Leone,1996-03-29,1997-05-25,Presidential,28.0
+451,Sierra Leone,1997-05-25,1998-03-10,Military personal,27.0
+451,Sierra Leone,1998-03-10,2020-12-31,Presidential,26.0
+452,Ghana,1957-02-06,1960-04-27,Parliamentary,67.0
+452,Ghana,1960-04-27,1966-02-24,Party-personal,64.0
+452,Ghana,1966-02-24,1969-08-29,Military,58.0
+452,Ghana,1969-08-29,1970-08-07,Provisional military,55.0
+452,Ghana,1970-08-07,1972-01-13,Parliamentary,54.0
+452,Ghana,1972-01-13,1979-07-09,Military,52.0
+452,Ghana,1979-07-09,1981-12-31,Presidential,45.0
+452,Ghana,1981-12-31,1993-01-01,Personal,42.0
+452,Ghana,1993-01-01,2020-12-31,Presidential,31.0
+461,Togo,1960-03-27,1961-04-09,Parliamentary,64.0
+461,Togo,1961-04-09,1963-01-13,Personal,63.0
+461,Togo,1963-01-13,2020-12-31,Personal,61.0
+471,Cameroon,1959-12-01,1983-08-22,Party-personal,64.0
+471,Cameroon,1983-08-22,2020-12-31,Personal,41.0
+475,Nigeria,1960-09-01,1966-01-15,Parliamentary,64.0
+475,Nigeria,1966-01-15,1975-07-30,Military,58.0
+475,Nigeria,1975-07-30,1979-08-11,Provisional military,49.0
+475,Nigeria,1979-08-11,1983-12-31,Presidential,45.0
+475,Nigeria,1983-12-31,1993-08-26,Military,40.0
+475,Nigeria,1993-08-26,1993-11-17,Provisional military,31.0
+475,Nigeria,1993-11-17,1998-05-31,Military personal,30.0
+475,Nigeria,1998-05-31,1999-05-01,Provisional military,26.0
+475,Nigeria,1999-05-01,2020-12-31,Presidential,25.0
+481,Gabon,1960-07-17,2020-12-31,Party-personal,64.0
+482,Cen African Rep,1960-07-31,1965-12-31,Personal,64.0
+482,Cen African Rep,1965-12-31,1979-09-20,Personal,58.0
+482,Cen African Rep,1979-09-20,1981-09-01,Personal,45.0
+482,Cen African Rep,1981-09-01,1993-09-19,Military personal,43.0
+482,Cen African Rep,1993-09-19,2003-03-15,Presidential,31.0
+482,Cen African Rep,2003-03-15,2013-03-24,Personal,21.0
+482,Cen African Rep,2013-03-24,2016-03-01,Provisional,11.0
+482,Cen African Rep,2016-03-01,2020-12-31,Presidential,8.0
+483,Chad,1960-07-11,1975-04-13,Party-personal,64.0
+483,Chad,1975-04-13,1979-03-23,Military,49.0
+483,Chad,1979-03-23,1982-06-07,Warlordism,45.0
+483,Chad,1982-06-07,1990-12-01,Personal,42.0
+483,Chad,1990-12-01,2021-04-23,Personal,33.0
+483,Chad,2021-04-23,2020-12-31,Provisional military,3.0
+484,Congo-Brz,1960-07-15,1963-08-15,Personal,64.0
+484,Congo-Brz,1963-08-15,1968-09-04,Party-personal,61.0
+484,Congo-Brz,1968-09-04,1991-02-25,Party-military,56.0
+484,Congo-Brz,1991-02-25,1992-08-31,Provisional,33.0
+484,Congo-Brz,1992-08-31,1997-10-14,Presidential,32.0
+484,Congo-Brz,1997-10-14,2020-12-31,Personal,26.0
+490,Congo/Zaire,1960-05-30,1960-09-14,Parliamentary,64.0
+490,Congo/Zaire,1960-09-14,1965-11-24,Indirect military,64.0
+490,Congo/Zaire,1965-11-24,1997-05-17,Personal,58.0
+490,Congo/Zaire,1997-05-17,2020-12-31,Personal,27.0
+500,Uganda,1962-09-09,1966-04-15,Parliamentary,62.0
+500,Uganda,1966-04-15,1971-01-25,Personal,58.0
+500,Uganda,1971-01-25,1979-04-11,Personal,53.0
+500,Uganda,1979-04-11,1980-12-11,Provisional,45.0
+500,Uganda,1980-12-11,1985-07-27,Personal,43.0
+500,Uganda,1985-07-27,1986-01-27,Warlordism,39.0
+500,Uganda,1986-01-27,2020-12-31,Personal,38.0
+501,Kenya,1963-11-12,2002-12-27,Party-based,60.0
+501,Kenya,2002-12-27,2020-12-31,Presidential,21.0
+510,Tanzania,1961-10-09,1964-04-26,Parliamentary,63.0
+510,Tanzania,1964-04-26,2020-12-31,Party-based,60.0
+516,Burundi,1962-06-01,1966-07-08,Monarchy,62.0
+516,Burundi,1966-07-08,1987-09-03,Party-military,58.0
+516,Burundi,1987-09-03,1993-07-10,Military,37.0
+516,Burundi,1993-07-10,1993-10-21,Presidential,31.0
+516,Burundi,1993-10-21,1996-07-25,Presidential,30.0
+516,Burundi,1996-07-25,2003-04-30,Military personal,28.0
+516,Burundi,2003-04-30,2005-08-26,Provisional,21.0
+516,Burundi,2005-08-26,2015-08-20,Presidential,19.0
+516,Burundi,2015-08-20,2020-12-31,Personal,9.0
+517,Rwanda,1961-09-01,1973-07-05,Party-based,63.0
+517,Rwanda,1973-07-05,1994-07-04,Military personal,51.0
+517,Rwanda,1994-07-04,2020-12-31,Party-military,30.0
+520,Somalia,1960-06-01,1969-10-21,Presidential,64.0
+520,Somalia,1969-10-21,1991-01-26,Personal,54.0
+520,Somalia,1991-01-26,2012-09-16,Warlordism,33.0
+520,Somalia,2012-09-16,2020-12-31,Provisional,12.0
+522,Djibouti,1977-05-27,2020-12-31,Personal,47.0
+530,Ethiopia,1890-01-01,1974-09-12,Monarchy,134.0
+530,Ethiopia,1974-09-12,1991-05-21,Military personal,50.0
+530,Ethiopia,1991-05-27,2020-12-31,Party-based,33.0
+531,Eritrea,1993-04-24,2020-12-31,Party-personal,31.0
+540,Angola,1975-10-11,2020-12-31,Party-based,48.0
+541,Mozambique,1975-05-25,2020-12-31,Party-based,49.0
+551,Zambia,1964-09-24,1991-10-31,Party-based,60.0
+551,Zambia,1991-10-31,1996-05-28,Presidential,32.0
+551,Zambia,1996-05-28,2011-09-23,Party-based,28.0
+551,Zambia,2011-09-23,2020-12-31,Presidential,13.0
+552,Zimbabwe,1965-10-11,1979-05-29,Oligarchy,59.0
+552,Zimbabwe,1979-05-29,1980-04-18,Provisional,45.0
+552,Zimbabwe,1980-04-18,2020-12-31,Party-based,44.0
+553,Malawi,1964-06-06,1994-05-17,Personal,60.0
+553,Malawi,1994-05-17,2020-12-31,Presidential,30.0
+560,South Africa,1910-05-31,1994-04-29,Oligarchy,114.0
+560,South Africa,1994-04-29,2020-12-31,Parliamentary,30.0
+565,Namibia,1990-02-21,2020-12-31,Party-based,34.0
+570,Lesotho,1966-09-04,1970-01-31,Parliamentary,58.0
+570,Lesotho,1970-01-31,1986-01-20,Party-based,54.0
+570,Lesotho,1986-01-20,1993-03-27,Military,38.0
+570,Lesotho,1993-03-27,2020-12-31,Parliamentary,31.0
+571,Botswana,1966-08-30,2020-12-31,Party-based,58.0
+572,Swaziland,1968-08-06,2020-12-31,Monarchy,56.0
+580,Madagascar,1960-05-26,1972-05-18,Party-based,64.0
+580,Madagascar,1972-05-18,1975-06-15,Military,52.0
+580,Madagascar,1975-06-15,1993-02-10,Personal,49.0
+580,Madagascar,1993-02-10,2009-03-17,Presidential,31.0
+580,Madagascar,2009-03-17,2014-01-25,Personal,15.0
+580,Madagascar,2014-01-25,2020-12-31,Presidential,10.0
+581,Comoros,1975-06-06,1989-11-26,Military personal,49.0
+581,Comoros,1989-11-26,1995-09-29,Provisional,34.0
+581,Comoros,1995-09-29,1999-04-30,Provisional,29.0
+581,Comoros,1999-04-30,2006-05-26,Military personal,25.0
+581,Comoros,2006-05-26,2020-12-31,Presidential,18.0
+590,Mauritius,1968-02-12,2020-12-31,Parliamentary,56.0
+591,Seychelles,1976-05-29,1977-07-01,Parliamentary,48.0
+591,Seychelles,1977-07-01,1993-06-18,Personal,47.0
+591,Seychelles,1993-06-18,2020-12-31,Party-based,31.0
+600,Morocco,1956-02-02,2020-12-31,Monarchy,68.0
+615,Algeria,1962-04-03,1992-01-11,Party-military,62.0
+615,Algeria,1992-01-11,2019-04-02,Military,32.0
+615,Algeria,2019-04-02,2020-11-01,Civilian provisional,5.0
+615,Algeria,2020-11-01,2021-12-31,Presidential,3.0
+616,Tunisia,1943-04-30,1957-07-25,Monarchy,81.0
+616,Tunisia,1957-07-25,2011-01-14,Party-based,67.0
+616,Tunisia,2011-01-14,2015-01-01,Provisional,13.0
+616,Tunisia,2015-01-01,2020-12-31,Presidential,9.0
+620,Libya,1951-01-24,1969-09-01,Monarchy,73.0
+620,Libya,1969-09-01,2011-08-15,Personal,55.0
+620,Libya,2011-08-15,2021-03-10,Warlordism,13.0
+620,Libya,2021-03-10,2021-12-31,Civilian provisional,3.0
+625,Sudan,1955-01-01,1958-11-17,Parliamentary,69.0
+625,Sudan,1958-11-17,1964-10-29,Military,65.0
+625,Sudan,1964-10-29,1965-06-14,Provisional,59.0
+625,Sudan,1965-06-14,1969-05-25,Parliamentary,59.0
+625,Sudan,1969-05-25,1985-04-06,Personal,55.0
+625,Sudan,1985-04-06,1986-04-12,Provisional military,39.0
+625,Sudan,1986-04-12,1989-06-30,Parliamentary,38.0
+625,Sudan,1989-06-30,2019-04-10,Personal,35.0
+625,Sudan,2019-04-10,2019-08-20,Provisional military,5.0
+625,Sudan,2019-08-20,2020-12-31,Civilian provisional,5.0
+626,South Sudan,2011-06-01,2020-12-31,Personal,13.0
+630,Iran,1925-12-15,1979-01-16,Monarchy,98.0
+630,Iran,1979-01-16,2020-12-31,Party-based,45.0
+640,Turkey,1923-10-29,1950-05-14,Party-based,100.0
+640,Turkey,1950-05-14,1957-10-27,Parliamentary,74.0
+640,Turkey,1957-10-27,1960-05-27,Party-based,66.0
+640,Turkey,1960-05-27,1961-10-15,Military,64.0
+640,Turkey,1961-10-15,1980-09-12,Parliamentary,62.0
+640,Turkey,1980-09-12,1983-11-06,Military,44.0
+640,Turkey,1983-11-06,2019-05-06,Presidential,40.0
+640,Turkey,2019-05-06,2020-12-31,Party-personal,5.0
+645,Iraq,1932-10-13,1958-07-14,Monarchy,92.0
+645,Iraq,1958-07-14,1963-02-08,Personal,66.0
+645,Iraq,1963-02-08,1968-07-17,Personal,61.0
+645,Iraq,1968-07-17,1979-07-16,Party-personal,56.0
+645,Iraq,1979-07-16,2003-04-07,Personal,45.0
+645,Iraq,2003-04-07,2011-12-31,Foreign-occupied,21.0
+645,Iraq,2011-12-31,2020-12-31,Parliamentary,12.0
+651,Egypt,1922-02-28,1952-07-23,Monarchy,102.0
+651,Egypt,1952-07-23,2011-02-11,Party-personal-military,72.0
+651,Egypt,2011-02-11,2012-06-30,Provisional military,13.0
+651,Egypt,2012-06-30,2013-07-03,Presidential,12.0
+651,Egypt,2013-07-03,2014-05-28,Provisional military,11.0
+651,Egypt,2014-05-28,2019-04-22,Presidential,10.0
+651,Egypt,2019-04-22,2020-12-31,Military personal,5.0
+652,Syria,1949-12-19,1951-11-29,Indirect military,74.0
+652,Syria,1951-11-29,1954-02-25,Military,72.0
+652,Syria,1954-02-25,1957-02-26,Presidential,70.0
+652,Syria,1957-02-26,1958-02-28,Personal,67.0
+652,Syria,1958-02-28,1962-03-28,Foreign-occupied,66.0
+652,Syria,1962-03-28,1963-03-08,Indirect military,62.0
+652,Syria,1963-03-08,2020-12-31,Party-personal-military,61.0
+660,Lebanon,1943-11-22,1976-09-23,Parliamentary,80.0
+660,Lebanon,1976-09-23,2005-04-26,Foreign-occupied,48.0
+660,Lebanon,2005-04-26,2020-12-31,Parliamentary,19.0
+663,Jordan,1946-05-25,2020-12-31,Monarchy,78.0
+666,Israel,1948-05-14,2020-12-31,Parliamentary,76.0
+670,Saudi Arabia,1927-05-20,2020-12-31,Monarchy,97.0
+678,Yemen,1918-10-30,1962-09-26,Monarchy,105.0
+678,Yemen,1962-09-26,1967-11-05,Military,62.0
+678,Yemen,1967-11-05,1974-06-13,Personal,56.0
+678,Yemen,1974-06-13,1978-07-17,Military,50.0
+678,Yemen,1978-07-17,1990-05-22,Personal,46.0
+679,Yemen,1990-04-22,2015-02-06,Personal,34.0
+679,Yemen,2015-02-06,2020-12-31,Warlordism,9.0
+680,Yemen South,1967-10-30,1990-05-22,Party-based,56.0
+690,Kuwait,1949-06-19,2020-12-31,Monarchy,75.0
+692,Bahrain,1971-07-15,2020-12-31,Monarchy,53.0
+694,Qatar,1971-07-03,2020-12-31,Monarchy,53.0
+696,United Arab Emirates,1971-07-02,2020-12-31,Monarchy,53.0
+698,Oman,1741-12-31,2020-12-31,Monarchy,282.0
+700,Afghanistan,1929-10-10,1973-07-17,Monarchy,95.0
+700,Afghanistan,1973-07-17,1978-04-27,Personal,51.0
+700,Afghanistan,1978-04-27,1992-04-16,Party-personal,46.0
+700,Afghanistan,1992-04-16,1996-09-27,Warlordism,32.0
+700,Afghanistan,1996-09-27,2001-11-13,Party-based,28.0
+700,Afghanistan,2001-11-13,2014-09-29,Foreign-occupied,22.0
+700,Afghanistan,2014-09-29,2020-12-31,Presidential,10.0
+701,Turkmenistan,1990-09-27,2020-12-31,Party-personal,34.0
+702,Tajikistan,1991-07-09,2020-12-31,Personal,33.0
+703,Kyrgyzstan,1990-09-30,2005-03-24,Personal,34.0
+703,Kyrgyzstan,2005-03-24,2010-04-07,Personal,19.0
+703,Kyrgyzstan,2010-04-07,2011-12-01,Provisional ,14.0
+703,Kyrgyzstan,2011-12-01,2020-10-15,Party-based,12.0
+703,Kyrgyzstan,2020-10-15,2021-01-10,Provisional ,3.0
+703,Kyrgyzstan,2021-01-10,2021-12-31,Presidential,3.0
+704,Uzbekistan,1990-02-28,2020-12-31,Party-personal,34.0
+705,Kazakhstan,1990-03-16,2020-12-31,Personal,34.0
+710,China,1949-01-22,2020-12-31,Party-based,75.0
+712,Mongolia,1921-09-14,1993-06-06,Party-based,103.0
+712,Mongolia,1993-06-06,2020-12-31,Presidential,31.0
+731,Korea North,1948-09-09,2020-12-31,Party-personal,76.0
+732,Korea South,1948-08-13,1960-04-27,Personal,76.0
+732,Korea South,1960-04-27,1961-05-16,Parliamentary,64.0
+732,Korea South,1961-05-16,1987-06-29,Military,63.0
+732,Korea South,1987-06-29,2020-12-31,Presidential,37.0
+740,Japan,1945-08-14,1951-04-11,Foreign-occupied,79.0
+740,Japan,1951-04-11,2020-12-31,Parliamentary,73.0
+750,India,1947-08-15,2020-12-31,Parliamentary,77.0
+760,Bhutan,1952-02-24,2008-04-09,Monarchy,72.0
+760,Bhutan,2008-04-09,2020-12-31,Parliamentary,16.0
+770,Pakistan,1947-08-14,1958-10-27,Oligarchy,77.0
+770,Pakistan,1958-10-27,1971-12-20,Military personal,65.0
+770,Pakistan,1971-12-20,1975-02-09,Parliamentary,52.0
+770,Pakistan,1975-02-09,1977-07-05,Personal,49.0
+770,Pakistan,1977-07-05,1988-11-16,Military personal,47.0
+770,Pakistan,1988-11-16,1999-10-12,Parliamentary,35.0
+770,Pakistan,1999-10-12,2008-08-18,Military personal,24.0
+770,Pakistan,2008-08-18,2020-12-31,Parliamentary,16.0
+771,Bangladesh,1971-03-11,1975-11-07,Party-personal,53.0
+771,Bangladesh,1975-11-07,1982-03-24,Personal,48.0
+771,Bangladesh,1982-03-24,1990-12-06,Personal,42.0
+771,Bangladesh,1990-12-06,2007-01-11,Parliamentary,33.0
+771,Bangladesh,2007-01-11,2009-01-06,Military,17.0
+771,Bangladesh,2009-01-06,2020-12-31,Parliamentary,15.0
+775,Myanmar,1948-01-04,1958-09-26,Parliamentary,76.0
+775,Myanmar,1958-09-26,1960-02-06,Military,66.0
+775,Myanmar,1960-02-06,1962-03-02,Parliamentary,64.0
+775,Myanmar,1962-03-02,1988-09-18,Military personal,62.0
+775,Myanmar,1988-09-18,2011-03-30,Military,36.0
+775,Myanmar,2011-03-30,2021-02-01,Party-military,13.0
+775,Myanmar,2021-02-01,2021-12-31,Military,3.0
+780,Sri Lanka,1949-01-01,1978-09-07,Parliamentary,75.0
+780,Sri Lanka,1978-09-07,1994-11-09,Party-based,46.0
+780,Sri Lanka,1994-11-09,2020-12-31,Presidential,29.0
+781,Maldives,1965-06-26,2008-11-11,Personal,59.0
+781,Maldives,2008-11-11,2020-12-31,Presidential,15.0
+790,Nepal,1846-09-15,1951-02-18,Monarchy,178.0
+790,Nepal,1951-02-18,1991-05-12,Monarchy,73.0
+790,Nepal,1991-05-12,2002-10-04,Parliamentary,33.0
+790,Nepal,2002-10-04,2006-04-24,Monarchy,21.0
+790,Nepal,2006-04-24,2020-12-31,Parliamentary,18.0
+800,Thailand,1947-11-08,1957-09-16,Military personal,76.0
+800,Thailand,1957-09-16,1973-10-14,Military personal,67.0
+800,Thailand,1973-10-14,1975-03-17,Provisional,50.0
+800,Thailand,1975-03-17,1976-10-06,Parliamentary,49.0
+800,Thailand,1976-10-06,1988-07-24,Military personal,48.0
+800,Thailand,1988-07-24,1991-02-23,Parliamentary,36.0
+800,Thailand,1991-02-23,1992-05-20,Military,33.0
+800,Thailand,1992-05-20,2006-09-19,Parliamentary,32.0
+800,Thailand,2006-09-19,2007-12-23,Military,18.0
+800,Thailand,2007-12-23,2014-05-07,Parliamentary,16.0
+800,Thailand,2014-05-07,2020-12-31,Military,10.0
+811,Cambodia,1953-10-09,1970-03-18,Monarchy,71.0
+811,Cambodia,1970-03-18,1975-04-17,Personal,54.0
+811,Cambodia,1975-04-17,1979-01-07,Party-based,49.0
+811,Cambodia,1979-01-07,2020-12-31,Party-based,45.0
+812,Laos,1954-11-24,1959-12-24,Parliamentary,69.0
+812,Laos,1959-12-24,1960-12-16,Personal,64.0
+812,Laos,1960-12-16,1962-07-24,Personal,63.0
+812,Laos,1962-07-24,1975-11-29,Warlordism,62.0
+812,Laos,1975-11-29,2020-12-31,Party-based,48.0
+816,Vietnam,1949-12-31,2020-12-31,Party-based,74.0
+817,Vietnam South,1953-12-31,1963-11-02,Personal,70.0
+817,Vietnam South,1963-11-02,1975-04-30,Military,60.0
+820,Malaysia,1957-07-31,2018-05-09,Party-based,67.0
+820,Malaysia,2018-05-09,2020-12-31,Parliamentary,6.0
+830,Singapore,1965-07-05,2020-12-31,Party-based,59.0
+835,Brunei,1967-09-04,2020-12-31,Monarchy,57.0
+840,Philippines,1947-01-01,1972-09-22,Presidential,77.0
+840,Philippines,1972-09-22,1986-02-25,Personal,52.0
+840,Philippines,1986-02-25,2020-12-31,Presidential,38.0
+850,Indonesia,1949-12-27,1966-03-11,Personal,74.0
+850,Indonesia,1966-03-11,1999-06-07,Party-personal-military,58.0
+850,Indonesia,1999-06-07,2020-12-31,Presidential,25.0
+860,East Timor,2002-04-20,2020-12-31,Presidential,22.0
+900,Australia,1902-01-01,2020-12-31,Parliamentary,122.0
+910,Papua New Guinea,1975-08-16,2020-12-31,Parliamentary,49.0
+920,New Zealand,1908-01-01,2020-12-31,Parliamentary,116.0
+935,Vanuatu,1980-07-30,2020-12-31,Parliamentary,44.0
+940,Solomon Islands,1978-06-07,2020-12-31,Parliamentary,46.0
+946,Kiribati,1979-07-12,2020-12-31,Presidential,45.0
+947,Tuvalu,1978-09-01,2020-12-31,Parliamentary,46.0
+950,Fiji,1970-09-10,1987-04-12,Party-based,54.0
+950,Fiji,1987-04-13,1987-05-14,Parliamentary,37.0
+950,Fiji,1987-05-14,1992-06-02,Military personal,37.0
+950,Fiji,1992-06-02,1999-05-19,Party-based,32.0
+950,Fiji,1999-05-19,2000-05-27,Parliamentary,25.0
+950,Fiji,2000-05-27,2006-12-05,Party-based,24.0
+950,Fiji,2006-12-05,2020-12-31,Military personal,17.0
+955,Tonga,1970-05-04,2020-12-31,Monarchy,54.0
+970,Nauru,1968-01-31,2020-12-31,Parliamentary,56.0
+983,Marshall Islands,1979-10-01,2020-12-31,Presidential,45.0
+986,Palau,1981-01-01,2020-12-31,Presidential,43.0
+987,Micronesia,1979-05-11,2020-12-31,Parliamentary,45.0
+990,Samoa,1961-12-01,2020-12-31,Parliamentary,62.0

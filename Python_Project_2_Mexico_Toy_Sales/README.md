@@ -1,6 +1,4 @@
 # Python_Project_2_Mexico_Toy_Sales
-![toysales](https://github.com/Lunczer93/Python_Project_2_Mexico_Toy_Sales/assets/65483365/6ef5489c-17ab-4c61-a47f-e277fdb7b8cd)
-
 # INTRODUCTION
 
 Mexico Toy Sales was analysed in order to practise ***Python Data Analysis libraries*** and _find out about general Sales, Profit and other details regarding this shop_
@@ -8,8 +6,10 @@ Mexico Toy Sales was analysed in order to practise ***Python Data Analysis libra
 # ANALYSIS
 
 To analyze and visualise data, _Python Data Analysis libraries_ were used (***NumPy, Pandas, matplotlib & seaborn***)
+All steps with detailed information is also described in [Python Project 2 Mexico Toy Sales.ipynb](https://github.com/Longwinter93/Python_Data_Analysis_Libraries_Projects/blob/main/Python_Project_2_Mexico_Toy_Sales/Python%20Project%202%20Mexico%20Toy%20Sales.ipynb)
 
 # MAIN CONCLUSIONS
+
 1. Currently, Cuidad de Mexico (2681), Guadalajara (2331) and  Hermosillo	(2232) possess the greatest quantity of Products on the Stock on Hand 
 2. The majority of Product Category in Cuidad de Mexico (31,1%) and in Guadalajara (28,8%) belong to Art & Crafts. While, the majority of Product Category in Hermosillo belongs to Toys (30.3%)
 3. The greatest quantity of Stock On Hand belongs to Deck of Cards (2738) products.

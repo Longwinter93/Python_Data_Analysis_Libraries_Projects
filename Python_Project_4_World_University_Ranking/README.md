@@ -1,6 +1,4 @@
 # Python_Project_4_World_University_Ranking
-![WorldUniversityRanking](https://github.com/Lunczer93/Python_Project_4_World_University_Ranking/assets/65483365/49e54877-41be-402c-a275-19bd22738d7a)
-
 # INTRODUCTION
 
 World University Ranking was analysed in order to practise ***Python Data Analysis libraries*** and _find out about the classification of the university in the world_. 
@@ -9,6 +7,8 @@ World University Ranking was analysed in order to practise ***Python Data Analys
 # ANALYSIS
 
 To analyze and visualise data, _Python Data Analysis libraries_ were used (***NumPy, Pandas, matplotlib & seaborn***)
+All steps with detailed information is also described in [Python_Project_4_World_University_Ranking.ipynb](https://github.com/Longwinter93/Python_Data_Analysis_Libraries_Projects/blob/main/Python_Project_4_World_University_Ranking/Python_Project_4_World_University_Ranking.ipynb)
+
 
 # MAIN CONCLUSIONS
 1. Universites from United States, United Kingdom, Switzerland, Singapore, China, Hong Kong and Japan were classified as top 25 University in 2023.
